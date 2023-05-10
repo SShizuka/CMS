@@ -1,0 +1,3 @@
+Total fees = 55000
+Submmites = 36000
+Left = 19000

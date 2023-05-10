@@ -1,0 +1,3 @@
+total fees = 30000
+submitted = 20000
+due fees = 10000
